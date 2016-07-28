@@ -1,0 +1,10 @@
+C:\Users\christophe portable\Desktop\t.o.b.i.s\tobis project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\christophe portable\Desktop\t.o.b.i.s\tobis project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\christophe portable\Desktop\t.o.b.i.s\tobis project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\christophe portable\Desktop\t.o.b.i.s\tobis project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\christophe portable\Desktop\t.o.b.i.s\tobis project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\christophe portable\Desktop\t.o.b.i.s\tobis project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\christophe portable\Desktop\t.o.b.i.s\tobis project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\christophe portable\Desktop\t.o.b.i.s\tobis project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\christophe portable\Desktop\t.o.b.i.s\tobis project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\christophe portable\Desktop\t.o.b.i.s\tobis project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
